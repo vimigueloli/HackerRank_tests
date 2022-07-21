@@ -4,6 +4,6 @@
 
 In this repository I will post my solution to some HackerRank problems.
 
-abbr: 80% solved
-two-caracteres: 100% solved
-genna: 0% solved
+abbr: 80% solved <br/>
+two-caracteres: 100% solved <br/>
+genna: 0% solved <br/>
